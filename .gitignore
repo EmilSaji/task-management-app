@@ -1,0 +1,18 @@
+# Rust
+backend/target/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+
+# Env
+.env
+backend/.env
+frontend/.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
