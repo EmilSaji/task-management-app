@@ -16,3 +16,7 @@ frontend/.env.local
 Thumbs.db
 .idea/
 .vscode/
+
+# Logs / build info
+*.log
+*.tsbuildinfo
